@@ -5,7 +5,7 @@ import java.util.Random;
 import java.util.HashMap;
 import java.util.Map;
 
-public class revision {
+public class rpc{
     public static void main(String[] args){
 
         Map<Character,Character> rules = new HashMap<Character,Character>();
